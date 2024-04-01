@@ -18,6 +18,6 @@ Implementasi dalam mencetak satu array / list dari 1 sampai 100 dalam urutan ter
 
 <h3>B. Cuaca Jakarta dalam 5 Hari</h3>
 Implementasi dalam menampilkan ramalan cuaca 1 suhu per hari dalam satuan celcius pada kota Jakarta untuk 5 hari kedepan menggunakan API http://openweathermap.org
-<h4>Source Code <a href="https://github.com/adelineafgr/minitest-stamps/blob/main/cuaca.py"></a></h4>
+<h4>Source Code <a href="https://github.com/adelineafgr/minitest-stamps/blob/main/cuaca.py" target="_blank"></a></h4>
 <h4>Hasil</h4>
 <img src="./img/cuaca-jkt-output.png">
