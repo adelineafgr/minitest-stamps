@@ -27,4 +27,4 @@ Implementasi dalam menampilkan ramalan cuaca 1 suhu per hari dalam satuan celciu
 <h3>✅ D. Pernyataan Kesehatan</h3>
 <img src="./assets/Pernyataan Kesehatan - PT Stampindo Lancar Jaya.png">
 <h3>✅ E. DISC Test</h3>
-<a href=""><img src="./assets/disc-result.png"></a>
+<a href="https://github.com/adelineafgr/minitest-stamps/blob/main/assets/AdelineAfigar5009474.pdf"><img src="./assets/disc-result.png"></a>
