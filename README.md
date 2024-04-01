@@ -12,12 +12,19 @@ Implementasi dalam mencetak satu array / list dari 1 sampai 100 dalam urutan ter
         <li>Array dicetak secara vertikal</li>
     </ol>
 </p>
-<h4>Source Code<a href="https://github.com/adelineafgr/minitest-stamps/blob/main/procil.py"></a></h4>
+<h4><a href="https://github.com/adelineafgr/minitest-stamps/blob/main/procil.py" target="_blank">Source Code</a></h4>
 <h4>Hasil</h4>
-<img src="./img/procil-output.png">
+<img src="./assets/procil-output.png">
 
 <h3>B. Cuaca Jakarta dalam 5 Hari</h3>
 Implementasi dalam menampilkan ramalan cuaca 1 suhu per hari dalam satuan celcius pada kota Jakarta untuk 5 hari kedepan menggunakan API http://openweathermap.org
-<h4>Source Code <a href="https://github.com/adelineafgr/minitest-stamps/blob/main/cuaca.py" target="_blank"></a></h4>
+<h4><a href="https://github.com/adelineafgr/minitest-stamps/blob/main/cuaca.py" target="_blank">Source Code</a></h4>
 <h4>Hasil</h4>
-<img src="./img/cuaca-jkt-output.png">
+<img src="./assets/cuaca-jkt-output.png">
+
+<h3>✅ C. Pertanyaan Awal</h3>
+<img src="./assets/Pertanyaan Awal - PT Stampindo Lancar Jaya.png">
+<h3>✅ D. Pernyataan Kesehatan</h3>
+<img src="./assets/Pernyataan Kesehatan - PT Stampindo Lancar Jaya.png">
+<h3>✅ E. DISC Test</h3>
+<a href=""><img src="./assets/disc-result.png"></a>
